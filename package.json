@@ -1,0 +1,10 @@
+{
+  "name": "go-chipta",
+  "version": "4.0.0",
+  "description": "Go-Chipta: konsert, teatr, kino, sport, muzey, avia va poyezd chiptalari sayti (frontend + server)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED",
+  "private": true
+}
